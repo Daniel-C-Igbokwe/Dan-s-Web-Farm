@@ -1,0 +1,57 @@
+/* TERMS */
+body{
+    background-color:rgb(6, 53, 122);
+    ;
+  }
+  
+.terms {
+    color: white;
+}
+
+.heading {
+    text-align: center;
+}
+
+.terms p span {
+    text-decoration: underline;
+}
+
+.terms p {
+    padding-inline: 2rem;
+    margin-block-end: 50px;
+    font-size: 20px;
+}
+
+/* PRIVACY POLICY */
+
+.privacy-policy {
+    color: white;
+}
+
+.privacy-policy p {
+    padding-inline: 2rem;
+    margin-block-end: 50px;
+    font-size: 20px;
+}
+
+.privacy-policy p span {
+    text-decoration: underline;
+}
+
+/* COOKIE DISCLAIMER */
+
+.cookie-disclaimer {
+    color: white;
+}
+
+.cookie-disclaimer p {
+    padding-inline: 2rem;
+    margin-block-end: 50px;
+    font-size: 20px;
+}
+
+.cookie-disclaimer p span {
+    text-decoration: underline;
+}
+
+
